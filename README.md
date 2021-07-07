@@ -1,4 +1,4 @@
-# Livro de receitas da Bruna :man_cook:
+# Livro de receitas do Zé :man_cook:
 
 Olá, bem vindo ao nosso livro de receitas :raised_hand_with_fingers_splayed:
 
