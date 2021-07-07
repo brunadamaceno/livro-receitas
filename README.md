@@ -1,7 +1,7 @@
-# Livro de receitas Bruninha :man_cook:
+# Livro de receitas 
 
-Olá, bem vindo ao nosso livro de receitas :raised_hand_with_fingers_splayed:
+Olá, bem vindo ao nosso livro de receitas 
 
 * Strogonoff de frango
-* Pavê
-* receita
+
+  
